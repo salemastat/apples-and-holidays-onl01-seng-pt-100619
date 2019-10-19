@@ -64,8 +64,6 @@ add_new_holiday_with_supplies(holiday_supplies, :fall, :succas, ["lulav", "esrog
 # This is the way learn.co tests the method to see if it's working:
 # columbus_day_supplies = ["Flags", "Parade Floats", "Italian Food"]
 # add_new_holiday_with_supplies(holiday_supplies, :fall, :columbus_day, columbus_day_supplies)
-# //////////////////////////////////////////////////////////////////////////
-
 
 # this is the basis for the method below that adds a whole new season to the hash
 # puts holiday_supplies[:aviv] = {:pesach => ["Matzah", "Maror"]}
